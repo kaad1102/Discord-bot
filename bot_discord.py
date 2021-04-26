@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 from discord.utils import find, get
 import random
-TOKEN = "ODIzNTYxODUxMDgxNTg4NzU2.YFinvg.8X-WKiZeBIClv0qEoMuPWVNxdrc"
+TOKEN = ""
 intents = discord.Intents.default()
 intents.members = True
 
