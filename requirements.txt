@@ -1,0 +1,1 @@
+Библиотеки, нужные для запуска моего проекта: discord, discord.ext, random, asyncio, discord.utils
